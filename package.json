@@ -1,0 +1,9 @@
+{
+  "name": "Smeefus",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "bot.js",
+  "author": "Smeefus",
+  "dependencies": {}
+}
+
